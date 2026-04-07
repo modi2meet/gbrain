@@ -2,6 +2,12 @@
 
 All notable changes to GBrain will be documented in this file.
 
+## [0.2.0.2] - 2026-04-07
+
+### Changed
+
+- Rewrote recommended brain schema doc with expanded architecture: database layer (entity registry, event ledger, fact store, relationship graph) presented as the core architecture, entity identity and deduplication, enrichment source ordering, epistemic discipline rules, worked examples showing full ingestion chains, concurrency guidance, and browser budget. Smoothed language for open-source readability.
+
 ## [0.2.0.1] - 2026-04-07
 
 ### Added
